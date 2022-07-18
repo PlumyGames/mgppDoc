@@ -124,6 +124,7 @@ $dokka.location:io.github.liplum.mindustry.task/RunMindustry/getForciblyClear/#/
 $dokka.location:io.github.liplum.mindustry.task/RunMindustry/getMindustryFile/#/PointingToDeclaration/main/io.github.liplum.mindustry.task/-run-mindustry/get-mindustry-file.html
 $dokka.location:io.github.liplum.mindustry.task/RunMindustry/getModsWorkWith/#/PointingToDeclaration/main/io.github.liplum.mindustry.task/-run-mindustry/get-mods-work-with.html
 $dokka.location:io.github.liplum.mindustry.task/RunMindustry/getOutputtedMods/#/PointingToDeclaration/main/io.github.liplum.mindustry.task/-run-mindustry/get-outputted-mods.html
+$dokka.location:io.github.liplum.mindustry.task/RunMindustry/getStartupArgs/#/PointingToDeclaration/main/io.github.liplum.mindustry.task/-run-mindustry/get-startup-args.html
 $dokka.location:io.github.liplum.mindustry////PointingToDeclaration/main/io.github.liplum.mindustry/index.html
 $dokka.location:io.github.liplum.mindustry/AntiAliasKt///PointingToDeclaration/main/io.github.liplum.mindustry/-anti-alias-kt/index.html
 $dokka.location:io.github.liplum.mindustry/AntiAliasKt/antiAliasing/#java.io.File#java.io.File/PointingToDeclaration/main/io.github.liplum.mindustry/-anti-alias-kt/anti-aliasing.html
@@ -162,6 +163,7 @@ $dokka.location:io.github.liplum.mindustry/ClientSpec/Official/#kotlin.String/Po
 $dokka.location:io.github.liplum.mindustry/ClientSpec/getKeepOtherVersion/#/PointingToDeclaration/main/io.github.liplum.mindustry/-client-spec/get-keep-other-version.html
 $dokka.location:io.github.liplum.mindustry/ClientSpec/getLocation/#/PointingToDeclaration/main/io.github.liplum.mindustry/-client-spec/get-location.html
 $dokka.location:io.github.liplum.mindustry/ClientSpec/getMindustry/#/PointingToDeclaration/main/io.github.liplum.mindustry/-client-spec/get-mindustry.html
+$dokka.location:io.github.liplum.mindustry/ClientSpec/getStartupArgs/#/PointingToDeclaration/main/io.github.liplum.mindustry/-client-spec/get-startup-args.html
 $dokka.location:io.github.liplum.mindustry/DefaultSoundsGenerator///PointingToDeclaration/main/io.github.liplum.mindustry/-default-sounds-generator/index.html
 $dokka.location:io.github.liplum.mindustry/DefaultSoundsGenerator/generateClass/#io.github.liplum.mindustry.IGenerateContext/PointingToDeclaration/main/io.github.liplum.mindustry/-default-sounds-generator/generate-class.html
 $dokka.location:io.github.liplum.mindustry/DefaultSpritesGenerator///PointingToDeclaration/main/io.github.liplum.mindustry/-default-sprites-generator/index.html
@@ -180,15 +182,12 @@ $dokka.location:io.github.liplum.mindustry/DependencySpec.ArcSpec///PointingToDe
 $dokka.location:io.github.liplum.mindustry/DependencySpec.ArcSpec/DependencySpec.ArcSpec/#/PointingToDeclaration/main/io.github.liplum.mindustry/-dependency-spec/-arc-spec/-dependency-spec.-arc-spec.html
 $dokka.location:io.github.liplum.mindustry/DependencySpec.ArcSpec/on/#io.github.liplum.mindustry.INotation/PointingToDeclaration/main/io.github.liplum.mindustry/-dependency-spec/-arc-spec/on.html
 $dokka.location:io.github.liplum.mindustry/DependencySpec.ArcSpec/on/#kotlin.String/PointingToDeclaration/main/io.github.liplum.mindustry/-dependency-spec/-arc-spec/on.html
-$dokka.location:io.github.liplum.mindustry/DependencySpec.ArcSpec/on/#kotlin.collections.Map[kotlin.String,kotlin.Any]/PointingToDeclaration/main/io.github.liplum.mindustry/-dependency-spec/-arc-spec/on.html
 $dokka.location:io.github.liplum.mindustry/DependencySpec.MindustrySpec///PointingToDeclaration/main/io.github.liplum.mindustry/-dependency-spec/-mindustry-spec/index.html
 $dokka.location:io.github.liplum.mindustry/DependencySpec.MindustrySpec/DependencySpec.MindustrySpec/#/PointingToDeclaration/main/io.github.liplum.mindustry/-dependency-spec/-mindustry-spec/-dependency-spec.-mindustry-spec.html
 $dokka.location:io.github.liplum.mindustry/DependencySpec.MindustrySpec/mirror/#io.github.liplum.mindustry.INotation/PointingToDeclaration/main/io.github.liplum.mindustry/-dependency-spec/-mindustry-spec/mirror.html
 $dokka.location:io.github.liplum.mindustry/DependencySpec.MindustrySpec/mirror/#kotlin.String/PointingToDeclaration/main/io.github.liplum.mindustry/-dependency-spec/-mindustry-spec/mirror.html
-$dokka.location:io.github.liplum.mindustry/DependencySpec.MindustrySpec/mirror/#kotlin.collections.Map[kotlin.String,kotlin.Any]/PointingToDeclaration/main/io.github.liplum.mindustry/-dependency-spec/-mindustry-spec/mirror.html
 $dokka.location:io.github.liplum.mindustry/DependencySpec.MindustrySpec/on/#io.github.liplum.mindustry.INotation/PointingToDeclaration/main/io.github.liplum.mindustry/-dependency-spec/-mindustry-spec/on.html
 $dokka.location:io.github.liplum.mindustry/DependencySpec.MindustrySpec/on/#kotlin.String/PointingToDeclaration/main/io.github.liplum.mindustry/-dependency-spec/-mindustry-spec/on.html
-$dokka.location:io.github.liplum.mindustry/DependencySpec.MindustrySpec/on/#kotlin.collections.Map[kotlin.String,kotlin.Any]/PointingToDeclaration/main/io.github.liplum.mindustry/-dependency-spec/-mindustry-spec/on.html
 $dokka.location:io.github.liplum.mindustry/DependencySpec///PointingToDeclaration/main/io.github.liplum.mindustry/-dependency-spec/index.html
 $dokka.location:io.github.liplum.mindustry/DependencySpec/ArcDependency/#kotlin.String/PointingToDeclaration/main/io.github.liplum.mindustry/-dependency-spec/-arc-dependency.html
 $dokka.location:io.github.liplum.mindustry/DependencySpec/Dependency/#kotlin.String#kotlin.String/PointingToDeclaration/main/io.github.liplum.mindustry/-dependency-spec/-dependency.html
@@ -260,7 +259,6 @@ $dokka.location:io.github.liplum.mindustry/GameSpecBase/LatestBE/#/PointingToDec
 $dokka.location:io.github.liplum.mindustry/GameSpecBase/LatestOfficial/#/PointingToDeclaration/main/io.github.liplum.mindustry/-game-spec-base/-latest-official.html
 $dokka.location:io.github.liplum.mindustry/GameSpecBase/LocalLocation/#java.io.File/PointingToDeclaration/main/io.github.liplum.mindustry/-game-spec-base/-local-location.html
 $dokka.location:io.github.liplum.mindustry/GameSpecBase/LocalLocation/#kotlin.String/PointingToDeclaration/main/io.github.liplum.mindustry/-game-spec-base/-local-location.html
-$dokka.location:io.github.liplum.mindustry/GameSpecBase/LocalPropertyLocation/#/PointingToDeclaration/main/io.github.liplum.mindustry/-game-spec-base/-local-property-location.html
 $dokka.location:io.github.liplum.mindustry/GameSpecBase/Official/#kotlin.String/PointingToDeclaration/main/io.github.liplum.mindustry/-game-spec-base/-official.html
 $dokka.location:io.github.liplum.mindustry/GameSpecBase/be/#io.github.liplum.mindustry.INotation/PointingToDeclaration/main/io.github.liplum.mindustry/-game-spec-base/be.html
 $dokka.location:io.github.liplum.mindustry/GameSpecBase/be/#kotlin.String/PointingToDeclaration/main/io.github.liplum.mindustry/-game-spec-base/be.html
@@ -269,18 +267,19 @@ $dokka.location:io.github.liplum.mindustry/GameSpecBase/from/#TypeParam(bounds=[
 $dokka.location:io.github.liplum.mindustry/GameSpecBase/from/#io.github.liplum.mindustry.INotation/PointingToDeclaration/main/io.github.liplum.mindustry/-game-spec-base/from.html
 $dokka.location:io.github.liplum.mindustry/GameSpecBase/fromLocal/#java.io.File/PointingToDeclaration/main/io.github.liplum.mindustry/-game-spec-base/from-local.html
 $dokka.location:io.github.liplum.mindustry/GameSpecBase/fromLocal/#kotlin.String/PointingToDeclaration/main/io.github.liplum.mindustry/-game-spec-base/from-local.html
-$dokka.location:io.github.liplum.mindustry/GameSpecBase/fromLocalProperties/#/PointingToDeclaration/main/io.github.liplum.mindustry/-game-spec-base/from-local-properties.html
+$dokka.location:io.github.liplum.mindustry/GameSpecBase/getArgs/#/PointingToDeclaration/main/io.github.liplum.mindustry/-game-spec-base/get-args.html
 $dokka.location:io.github.liplum.mindustry/GameSpecBase/getClearUp/#/PointingToDeclaration/main/io.github.liplum.mindustry/-game-spec-base/get-clear-up.html
 $dokka.location:io.github.liplum.mindustry/GameSpecBase/getKeepOtherVersion/#/PointingToDeclaration/main/io.github.liplum.mindustry/-game-spec-base/get-keep-other-version.html
 $dokka.location:io.github.liplum.mindustry/GameSpecBase/getKeepOthers/#/PointingToDeclaration/main/io.github.liplum.mindustry/-game-spec-base/get-keep-others.html
 $dokka.location:io.github.liplum.mindustry/GameSpecBase/getLatest/#/PointingToDeclaration/main/io.github.liplum.mindustry/-game-spec-base/get-latest.html
-$dokka.location:io.github.liplum.mindustry/GameSpecBase/getLocalProperties/#/PointingToDeclaration/main/io.github.liplum.mindustry/-game-spec-base/get-local-properties.html
 $dokka.location:io.github.liplum.mindustry/GameSpecBase/getLocation/#/PointingToDeclaration/main/io.github.liplum.mindustry/-game-spec-base/get-location.html
+$dokka.location:io.github.liplum.mindustry/GameSpecBase/getStartupArgs/#/PointingToDeclaration/main/io.github.liplum.mindustry/-game-spec-base/get-startup-args.html
 $dokka.location:io.github.liplum.mindustry/GameSpecBase/getTarget/#/PointingToDeclaration/main/io.github.liplum.mindustry/-game-spec-base/get-target.html
 $dokka.location:io.github.liplum.mindustry/GameSpecBase/getType/#/PointingToDeclaration/main/io.github.liplum.mindustry/-game-spec-base/get-type.html
 $dokka.location:io.github.liplum.mindustry/GameSpecBase/official/#io.github.liplum.mindustry.INotation/PointingToDeclaration/main/io.github.liplum.mindustry/-game-spec-base/official.html
 $dokka.location:io.github.liplum.mindustry/GameSpecBase/official/#kotlin.String/PointingToDeclaration/main/io.github.liplum.mindustry/-game-spec-base/official.html
 $dokka.location:io.github.liplum.mindustry/GameSpecBase/official/#kotlin.collections.Map[kotlin.String,kotlin.Any]/PointingToDeclaration/main/io.github.liplum.mindustry/-game-spec-base/official.html
+$dokka.location:io.github.liplum.mindustry/GameSpecBase/setArgs/#kotlin.collections.List[kotlin.String]/PointingToDeclaration/main/io.github.liplum.mindustry/-game-spec-base/set-args.html
 $dokka.location:io.github.liplum.mindustry/GenerateContext///PointingToDeclaration/main/io.github.liplum.mindustry/-generate-context/index.html
 $dokka.location:io.github.liplum.mindustry/GenerateContext/GenerateContext/#kotlin.String#org.gradle.api.logging.Logger#kotlin.collections.Collection[java.io.File]#kotlin.collections.Map[kotlin.String,kotlin.String]#java.io.OutputStream/PointingToDeclaration/main/io.github.liplum.mindustry/-generate-context/-generate-context.html
 $dokka.location:io.github.liplum.mindustry/GenerateContext/getArgs/#/PointingToDeclaration/main/io.github.liplum.mindustry/-generate-context/get-args.html
@@ -382,6 +381,7 @@ $dokka.location:io.github.liplum.mindustry/LocalDownload/openInputStream/#/Point
 $dokka.location:io.github.liplum.mindustry/LocalDownload/setLocalFile/#java.io.File/PointingToDeclaration/main/io.github.liplum.mindustry/-local-download/set-local-file.html
 $dokka.location:io.github.liplum.mindustry/LocalGameLocation///PointingToDeclaration/main/io.github.liplum.mindustry/-local-game-location/index.html
 $dokka.location:io.github.liplum.mindustry/LocalGameLocation/LocalGameLocation/#java.io.File/PointingToDeclaration/main/io.github.liplum.mindustry/-local-game-location/-local-game-location.html
+$dokka.location:io.github.liplum.mindustry/LocalGameLocation/LocalGameLocation/#kotlin.String/PointingToDeclaration/main/io.github.liplum.mindustry/-local-game-location/-local-game-location.html
 $dokka.location:io.github.liplum.mindustry/LocalGameLocation/getFile/#/PointingToDeclaration/main/io.github.liplum.mindustry/-local-game-location/get-file.html
 $dokka.location:io.github.liplum.mindustry/LocalGameLocation/getFileName/#/PointingToDeclaration/main/io.github.liplum.mindustry/-local-game-location/get-file-name.html
 $dokka.location:io.github.liplum.mindustry/LocalGameLocation/getLocalCopy/#/PointingToDeclaration/main/io.github.liplum.mindustry/-local-game-location/get-local-copy.html
@@ -396,6 +396,7 @@ $dokka.location:io.github.liplum.mindustry/LocalMod/resolveFile/#org.gradle.api.
 $dokka.location:io.github.liplum.mindustry/LocalMod/setModFile/#java.io.File/PointingToDeclaration/main/io.github.liplum.mindustry/-local-mod/set-mod-file.html
 $dokka.location:io.github.liplum.mindustry/LocalProperties///PointingToDeclaration/main/io.github.liplum.mindustry/-local-properties/index.html
 $dokka.location:io.github.liplum.mindustry/LocalProperties/clearCache/#org.gradle.api.Project?/PointingToDeclaration/main/io.github.liplum.mindustry/-local-properties/clear-cache.html
+$dokka.location:io.github.liplum.mindustry/LocalProperties/getLocal/org.gradle.api.Project#/PointingToDeclaration/main/io.github.liplum.mindustry/-local-properties/get-local.html
 $dokka.location:io.github.liplum.mindustry/LocalProperties/getLocalProperties/org.gradle.api.Project#/PointingToDeclaration/main/io.github.liplum.mindustry/-local-properties/get-local-properties.html
 $dokka.location:io.github.liplum.mindustry/LocalPropertiesNotation///PointingToDeclaration/main/io.github.liplum.mindustry/-local-properties-notation/index.html
 $dokka.location:io.github.liplum.mindustry/LocalPropertiesNotation/toString/#/PointingToDeclaration/main/io.github.liplum.mindustry/-local-properties-notation/to-string.html
@@ -427,12 +428,15 @@ $dokka.location:io.github.liplum.mindustry/MindustryAssetsExtension.AssetRootSpe
 $dokka.location:io.github.liplum.mindustry/MindustryAssetsExtension.AssetRootSpec/MindustryAssetsExtension.AssetRootSpec/#/PointingToDeclaration/main/io.github.liplum.mindustry/-mindustry-assets-extension/-asset-root-spec/-mindustry-assets-extension.-asset-root-spec.html
 $dokka.location:io.github.liplum.mindustry/MindustryAssetsExtension.AssetRootSpec/at/#java.io.File/PointingToDeclaration/main/io.github.liplum.mindustry/-mindustry-assets-extension/-asset-root-spec/at.html
 $dokka.location:io.github.liplum.mindustry/MindustryAssetsExtension.AssetRootSpec/at/#kotlin.String/PointingToDeclaration/main/io.github.liplum.mindustry/-mindustry-assets-extension/-asset-root-spec/at.html
+$dokka.location:io.github.liplum.mindustry/MindustryAssetsExtension.IconSpec///PointingToDeclaration/main/io.github.liplum.mindustry/-mindustry-assets-extension/-icon-spec/index.html
+$dokka.location:io.github.liplum.mindustry/MindustryAssetsExtension.IconSpec/MindustryAssetsExtension.IconSpec/#/PointingToDeclaration/main/io.github.liplum.mindustry/-mindustry-assets-extension/-icon-spec/-mindustry-assets-extension.-icon-spec.html
+$dokka.location:io.github.liplum.mindustry/MindustryAssetsExtension.IconSpec/at/#java.io.File/PointingToDeclaration/main/io.github.liplum.mindustry/-mindustry-assets-extension/-icon-spec/at.html
+$dokka.location:io.github.liplum.mindustry/MindustryAssetsExtension.IconSpec/at/#kotlin.String/PointingToDeclaration/main/io.github.liplum.mindustry/-mindustry-assets-extension/-icon-spec/at.html
 $dokka.location:io.github.liplum.mindustry/MindustryAssetsExtension///PointingToDeclaration/main/io.github.liplum.mindustry/-mindustry-assets-extension/index.html
 $dokka.location:io.github.liplum.mindustry/MindustryAssetsExtension/BatchType/#kotlin.Function1[io.github.liplum.mindustry.MindustryAssetsExtension.AssetBatchType,kotlin.Unit]/PointingToDeclaration/main/io.github.liplum.mindustry/-mindustry-assets-extension/-batch-type.html
 $dokka.location:io.github.liplum.mindustry/MindustryAssetsExtension/MindustryAssetsExtension/#org.gradle.api.Project/PointingToDeclaration/main/io.github.liplum.mindustry/-mindustry-assets-extension/-mindustry-assets-extension.html
 $dokka.location:io.github.liplum.mindustry/MindustryAssetsExtension/bundles/#org.gradle.api.Action[io.github.liplum.mindustry.AssetBatch]/PointingToDeclaration/main/io.github.liplum.mindustry/-mindustry-assets-extension/bundles.html
 $dokka.location:io.github.liplum.mindustry/MindustryAssetsExtension/getArgs/#/PointingToDeclaration/main/io.github.liplum.mindustry/-mindustry-assets-extension/get-args.html
-$dokka.location:io.github.liplum.mindustry/MindustryAssetsExtension/getAssetsRoot/#/PointingToDeclaration/main/io.github.liplum.mindustry/-mindustry-assets-extension/get-assets-root.html
 $dokka.location:io.github.liplum.mindustry/MindustryAssetsExtension/getBatches/#/PointingToDeclaration/main/io.github.liplum.mindustry/-mindustry-assets-extension/get-batches.html
 $dokka.location:io.github.liplum.mindustry/MindustryAssetsExtension/getBundles/#/PointingToDeclaration/main/io.github.liplum.mindustry/-mindustry-assets-extension/get-bundles.html
 $dokka.location:io.github.liplum.mindustry/MindustryAssetsExtension/getGenerator/#kotlin.String/PointingToDeclaration/main/io.github.liplum.mindustry/-mindustry-assets-extension/get-generator.html
@@ -443,6 +447,8 @@ $dokka.location:io.github.liplum.mindustry/MindustryAssetsExtension/getRoot/#/Po
 $dokka.location:io.github.liplum.mindustry/MindustryAssetsExtension/getShaders/#/PointingToDeclaration/main/io.github.liplum.mindustry/-mindustry-assets-extension/get-shaders.html
 $dokka.location:io.github.liplum.mindustry/MindustryAssetsExtension/getSounds/#/PointingToDeclaration/main/io.github.liplum.mindustry/-mindustry-assets-extension/get-sounds.html
 $dokka.location:io.github.liplum.mindustry/MindustryAssetsExtension/getSprites/#/PointingToDeclaration/main/io.github.liplum.mindustry/-mindustry-assets-extension/get-sprites.html
+$dokka.location:io.github.liplum.mindustry/MindustryAssetsExtension/iconAt/#java.io.File/PointingToDeclaration/main/io.github.liplum.mindustry/-mindustry-assets-extension/icon-at.html
+$dokka.location:io.github.liplum.mindustry/MindustryAssetsExtension/iconAt/#kotlin.String/PointingToDeclaration/main/io.github.liplum.mindustry/-mindustry-assets-extension/icon-at.html
 $dokka.location:io.github.liplum.mindustry/MindustryAssetsExtension/invoke/kotlin.String#kotlin.Function1[io.github.liplum.mindustry.MindustryAssetsExtension.AssetBatchType,kotlin.Unit]/PointingToDeclaration/main/io.github.liplum.mindustry/-mindustry-assets-extension/invoke.html
 $dokka.location:io.github.liplum.mindustry/MindustryAssetsExtension/rootAt/#java.io.File/PointingToDeclaration/main/io.github.liplum.mindustry/-mindustry-assets-extension/root-at.html
 $dokka.location:io.github.liplum.mindustry/MindustryAssetsExtension/rootAt/#kotlin.String/PointingToDeclaration/main/io.github.liplum.mindustry/-mindustry-assets-extension/root-at.html
@@ -463,6 +469,7 @@ $dokka.location:io.github.liplum.mindustry/MindustryExtension/deploy/#org.gradle
 $dokka.location:io.github.liplum.mindustry/MindustryExtension/getMeta/#/PointingToDeclaration/main/io.github.liplum.mindustry/-mindustry-extension/get-meta.html
 $dokka.location:io.github.liplum.mindustry/MindustryExtension/getOutOfDateTime/#/PointingToDeclaration/main/io.github.liplum.mindustry/-mindustry-extension/get-out-of-date-time.html
 $dokka.location:io.github.liplum.mindustry/MindustryExtension/getProjectType/#/PointingToDeclaration/main/io.github.liplum.mindustry/-mindustry-extension/get-project-type.html
+$dokka.location:io.github.liplum.mindustry/MindustryExtension/get_projectType/#/PointingToDeclaration/main/io.github.liplum.mindustry/-mindustry-extension/get_project-type.html
 $dokka.location:io.github.liplum.mindustry/MindustryExtension/mods/#kotlin.Function1[io.github.liplum.mindustry.ModsSpec,kotlin.Unit]/PointingToDeclaration/main/io.github.liplum.mindustry/-mindustry-extension/mods.html
 $dokka.location:io.github.liplum.mindustry/MindustryExtension/mods/#org.gradle.api.Action[io.github.liplum.mindustry.ModsSpec]/PointingToDeclaration/main/io.github.liplum.mindustry/-mindustry-extension/mods.html
 $dokka.location:io.github.liplum.mindustry/MindustryExtension/run/#kotlin.Function1[io.github.liplum.mindustry.RunSpec,kotlin.Unit]/PointingToDeclaration/main/io.github.liplum.mindustry/-mindustry-extension/run.html
@@ -471,10 +478,15 @@ $dokka.location:io.github.liplum.mindustry/MindustryExtension/server/#kotlin.Fun
 $dokka.location:io.github.liplum.mindustry/MindustryExtension/server/#org.gradle.api.Action[io.github.liplum.mindustry.ServerSpec]/PointingToDeclaration/main/io.github.liplum.mindustry/-mindustry-extension/server.html
 $dokka.location:io.github.liplum.mindustry/MindustryExtension/setMeta/#io.github.liplum.mindustry.ModMeta/PointingToDeclaration/main/io.github.liplum.mindustry/-mindustry-extension/set-meta.html
 $dokka.location:io.github.liplum.mindustry/MindustryExtension/setOutOfDateTime/#kotlin.Int/PointingToDeclaration/main/io.github.liplum.mindustry/-mindustry-extension/set-out-of-date-time.html
+$dokka.location:io.github.liplum.mindustry/MindustryExtension/setProjectType/#io.github.liplum.mindustry.ProjectType/PointingToDeclaration/main/io.github.liplum.mindustry/-mindustry-extension/set-project-type.html
 $dokka.location:io.github.liplum.mindustry/MindustryJavaPlugin///PointingToDeclaration/main/io.github.liplum.mindustry/-mindustry-java-plugin/index.html
 $dokka.location:io.github.liplum.mindustry/MindustryJavaPlugin/MindustryJavaPlugin/#/PointingToDeclaration/main/io.github.liplum.mindustry/-mindustry-java-plugin/-mindustry-java-plugin.html
 $dokka.location:io.github.liplum.mindustry/MindustryJavaPlugin/apply/#org.gradle.api.Project/PointingToDeclaration/main/io.github.liplum.mindustry/-mindustry-java-plugin/apply.html
 $dokka.location:io.github.liplum.mindustry/MindustryPlugin.Companion///PointingToDeclaration/main/io.github.liplum.mindustry/-mindustry-plugin/-companion/index.html
+$dokka.location:io.github.liplum.mindustry/MindustryPlugin.Companion/getAPIMindustryBELatestReleaseURL/#/PointingToDeclaration/main/io.github.liplum.mindustry/-mindustry-plugin/-companion/get-a-p-i-mindustry-b-e-latest-release-u-r-l.html
+$dokka.location:io.github.liplum.mindustry/MindustryPlugin.Companion/getAPIMindustryBEReleaseURL/#/PointingToDeclaration/main/io.github.liplum.mindustry/-mindustry-plugin/-companion/get-a-p-i-mindustry-b-e-release-u-r-l.html
+$dokka.location:io.github.liplum.mindustry/MindustryPlugin.Companion/getAPIMindustryOfficialLatestReleaseURL/#/PointingToDeclaration/main/io.github.liplum.mindustry/-mindustry-plugin/-companion/get-a-p-i-mindustry-official-latest-release-u-r-l.html
+$dokka.location:io.github.liplum.mindustry/MindustryPlugin.Companion/getAPIMindustryOfficialReleaseURL/#/PointingToDeclaration/main/io.github.liplum.mindustry/-mindustry-plugin/-companion/get-a-p-i-mindustry-official-release-u-r-l.html
 $dokka.location:io.github.liplum.mindustry/MindustryPlugin.Companion/getAntiGrief/#/PointingToDeclaration/main/io.github.liplum.mindustry/-mindustry-plugin/-companion/get-anti-grief.html
 $dokka.location:io.github.liplum.mindustry/MindustryPlugin.Companion/getAnuken/#/PointingToDeclaration/main/io.github.liplum.mindustry/-mindustry-plugin/-companion/get-anuken.html
 $dokka.location:io.github.liplum.mindustry/MindustryPlugin.Companion/getArcJitpackRepo/#/PointingToDeclaration/main/io.github.liplum.mindustry/-mindustry-plugin/-companion/get-arc-jitpack-repo.html
@@ -492,7 +504,6 @@ $dokka.location:io.github.liplum.mindustry/MindustryPlugin.Companion/getFooClien
 $dokka.location:io.github.liplum.mindustry/MindustryPlugin.Companion/getMainExtensionName/#/PointingToDeclaration/main/io.github.liplum.mindustry/-mindustry-plugin/-companion/get-main-extension-name.html
 $dokka.location:io.github.liplum.mindustry/MindustryPlugin.Companion/getMindustry/#/PointingToDeclaration/main/io.github.liplum.mindustry/-mindustry-plugin/-companion/get-mindustry.html
 $dokka.location:io.github.liplum.mindustry/MindustryPlugin.Companion/getMindustryAssetTaskGroup/#/PointingToDeclaration/main/io.github.liplum.mindustry/-mindustry-plugin/-companion/get-mindustry-asset-task-group.html
-$dokka.location:io.github.liplum.mindustry/MindustryPlugin.Companion/getMindustryBEReleaseURL/#/PointingToDeclaration/main/io.github.liplum.mindustry/-mindustry-plugin/-companion/get-mindustry-b-e-release-u-r-l.html
 $dokka.location:io.github.liplum.mindustry/MindustryPlugin.Companion/getMindustryBuilds/#/PointingToDeclaration/main/io.github.liplum.mindustry/-mindustry-plugin/-companion/get-mindustry-builds.html
 $dokka.location:io.github.liplum.mindustry/MindustryPlugin.Companion/getMindustryDataDirEnv/#/PointingToDeclaration/main/io.github.liplum.mindustry/-mindustry-plugin/-companion/get-mindustry-data-dir-env.html
 $dokka.location:io.github.liplum.mindustry/MindustryPlugin.Companion/getMindustryDesktopMainClass/#/PointingToDeclaration/main/io.github.liplum.mindustry/-mindustry-plugin/-companion/get-mindustry-desktop-main-class.html
@@ -549,6 +560,7 @@ $dokka.location:io.github.liplum.mindustry/ModMetaKt/getDisplayName/io.github.li
 $dokka.location:io.github.liplum.mindustry/ModMetaKt/getHidden/io.github.liplum.mindustry.ModMeta#/PointingToDeclaration/main/io.github.liplum.mindustry/-mod-meta-kt/get-hidden.html
 $dokka.location:io.github.liplum.mindustry/ModMetaKt/getHideBrowser/io.github.liplum.mindustry.ModMeta#/PointingToDeclaration/main/io.github.liplum.mindustry/-mod-meta-kt/get-hide-browser.html
 $dokka.location:io.github.liplum.mindustry/ModMetaKt/getJava/io.github.liplum.mindustry.ModMeta#/PointingToDeclaration/main/io.github.liplum.mindustry/-mod-meta-kt/get-java.html
+$dokka.location:io.github.liplum.mindustry/ModMetaKt/getKeepOutlines/io.github.liplum.mindustry.ModMeta#/PointingToDeclaration/main/io.github.liplum.mindustry/-mod-meta-kt/get-keep-outlines.html
 $dokka.location:io.github.liplum.mindustry/ModMetaKt/getMain/io.github.liplum.mindustry.ModMeta#/PointingToDeclaration/main/io.github.liplum.mindustry/-mod-meta-kt/get-main.html
 $dokka.location:io.github.liplum.mindustry/ModMetaKt/getMinGameVersion/io.github.liplum.mindustry.ModMeta#/PointingToDeclaration/main/io.github.liplum.mindustry/-mod-meta-kt/get-min-game-version.html
 $dokka.location:io.github.liplum.mindustry/ModMetaKt/getName/io.github.liplum.mindustry.ModMeta#/PointingToDeclaration/main/io.github.liplum.mindustry/-mod-meta-kt/get-name.html
@@ -563,6 +575,7 @@ $dokka.location:io.github.liplum.mindustry/ModMetaKt/setDisplayName/io.github.li
 $dokka.location:io.github.liplum.mindustry/ModMetaKt/setHidden/io.github.liplum.mindustry.ModMeta#kotlin.Boolean/PointingToDeclaration/main/io.github.liplum.mindustry/-mod-meta-kt/set-hidden.html
 $dokka.location:io.github.liplum.mindustry/ModMetaKt/setHideBrowser/io.github.liplum.mindustry.ModMeta#kotlin.Boolean/PointingToDeclaration/main/io.github.liplum.mindustry/-mod-meta-kt/set-hide-browser.html
 $dokka.location:io.github.liplum.mindustry/ModMetaKt/setJava/io.github.liplum.mindustry.ModMeta#kotlin.Boolean/PointingToDeclaration/main/io.github.liplum.mindustry/-mod-meta-kt/set-java.html
+$dokka.location:io.github.liplum.mindustry/ModMetaKt/setKeepOutlines/io.github.liplum.mindustry.ModMeta#kotlin.Boolean/PointingToDeclaration/main/io.github.liplum.mindustry/-mod-meta-kt/set-keep-outlines.html
 $dokka.location:io.github.liplum.mindustry/ModMetaKt/setMain/io.github.liplum.mindustry.ModMeta#kotlin.String/PointingToDeclaration/main/io.github.liplum.mindustry/-mod-meta-kt/set-main.html
 $dokka.location:io.github.liplum.mindustry/ModMetaKt/setMinGameVersion/io.github.liplum.mindustry.ModMeta#kotlin.String/PointingToDeclaration/main/io.github.liplum.mindustry/-mod-meta-kt/set-min-game-version.html
 $dokka.location:io.github.liplum.mindustry/ModMetaKt/setName/io.github.liplum.mindustry.ModMeta#kotlin.String/PointingToDeclaration/main/io.github.liplum.mindustry/-mod-meta-kt/set-name.html
@@ -615,6 +628,7 @@ $dokka.location:io.github.liplum.mindustry/NameRuleKt///PointingToDeclaration/m
 $dokka.location:io.github.liplum.mindustry/NameRuleKt/lowercaseHead/kotlin.String#/PointingToDeclaration/main/io.github.liplum.mindustry/-name-rule-kt/lowercase-head.html
 $dokka.location:io.github.liplum.mindustry/NameRuleKt/uppercaseHead/kotlin.String#/PointingToDeclaration/main/io.github.liplum.mindustry/-name-rule-kt/uppercase-head.html
 $dokka.location:io.github.liplum.mindustry/PluginsKt///PointingToDeclaration/main/io.github.liplum.mindustry/-plugins-kt/index.html
+$dokka.location:io.github.liplum.mindustry/PluginsKt/addAngleBracketsIfNeed/kotlin.String?#/PointingToDeclaration/main/io.github.liplum.mindustry/-plugins-kt/add-angle-brackets-if-need.html
 $dokka.location:io.github.liplum.mindustry/PluginsKt/getAntiAlias/org.gradle.api.tasks.TaskContainer#/PointingToDeclaration/main/io.github.liplum.mindustry/-plugins-kt/get-anti-alias.html
 $dokka.location:io.github.liplum.mindustry/PluginsKt/getDeploy/org.gradle.api.tasks.TaskContainer#/PointingToDeclaration/main/io.github.liplum.mindustry/-plugins-kt/get-deploy.html
 $dokka.location:io.github.liplum.mindustry/PluginsKt/getDexJar/org.gradle.api.tasks.TaskContainer#/PointingToDeclaration/main/io.github.liplum.mindustry/-plugins-kt/get-dex-jar.html
@@ -627,6 +641,10 @@ $dokka.location:io.github.liplum.mindustry/ProjectNotation/toString/#/PointingTo
 $dokka.location:io.github.liplum.mindustry/ProjectType.Mod///PointingToDeclaration/{"org.jetbrains.dokka.links.EnumEntryDRIExtra":{"key":"org.jetbrains.dokka.links.EnumEntryDRIExtra"}}main/io.github.liplum.mindustry/-project-type/-mod/index.html
 $dokka.location:io.github.liplum.mindustry/ProjectType.Plugin///PointingToDeclaration/{"org.jetbrains.dokka.links.EnumEntryDRIExtra":{"key":"org.jetbrains.dokka.links.EnumEntryDRIExtra"}}main/io.github.liplum.mindustry/-project-type/-plugin/index.html
 $dokka.location:io.github.liplum.mindustry/ProjectType///PointingToDeclaration/main/io.github.liplum.mindustry/-project-type/index.html
+$dokka.location:io.github.liplum.mindustry/PropertiesSpec///PointingToDeclaration/main/io.github.liplum.mindustry/-properties-spec/index.html
+$dokka.location:io.github.liplum.mindustry/PropertiesSpec/PropertiesSpec/#java.util.Properties/PointingToDeclaration/main/io.github.liplum.mindustry/-properties-spec/-properties-spec.html
+$dokka.location:io.github.liplum.mindustry/PropertiesSpec/get/#kotlin.String/PointingToDeclaration/main/io.github.liplum.mindustry/-properties-spec/get.html
+$dokka.location:io.github.liplum.mindustry/PropertiesSpec/getProperties/#/PointingToDeclaration/main/io.github.liplum.mindustry/-properties-spec/get-properties.html
 $dokka.location:io.github.liplum.mindustry/PropertyAsDefault///PointingToDeclaration/main/io.github.liplum.mindustry/-property-as-default/index.html
 $dokka.location:io.github.liplum.mindustry/ResourceClassGeneratorRegistry///PointingToDeclaration/main/io.github.liplum.mindustry/-resource-class-generator-registry/index.html
 $dokka.location:io.github.liplum.mindustry/ResourceClassGeneratorRegistry/get/#kotlin.String/PointingToDeclaration/main/io.github.liplum.mindustry/-resource-class-generator-registry/get.html
@@ -641,6 +659,7 @@ $dokka.location:io.github.liplum.mindustry/RunSpec/getDataDir/#/PointingToDeclar
 $dokka.location:io.github.liplum.mindustry/RunSpec/getForciblyClear/#/PointingToDeclaration/main/io.github.liplum.mindustry/-run-spec/get-forcibly-clear.html
 $dokka.location:io.github.liplum.mindustry/RunSpec/getKeepOtherMods/#/PointingToDeclaration/main/io.github.liplum.mindustry/-run-spec/get-keep-other-mods.html
 $dokka.location:io.github.liplum.mindustry/RunSpec/getUseDefaultDataDir/#/PointingToDeclaration/main/io.github.liplum.mindustry/-run-spec/get-use-default-data-dir.html
+$dokka.location:io.github.liplum.mindustry/RunSpec/getUseEnvDataDir/#/PointingToDeclaration/main/io.github.liplum.mindustry/-run-spec/get-use-env-data-dir.html
 $dokka.location:io.github.liplum.mindustry/RunSpec/getUseTempDataDir/#/PointingToDeclaration/main/io.github.liplum.mindustry/-run-spec/get-use-temp-data-dir.html
 $dokka.location:io.github.liplum.mindustry/RunSpec/get_dataDir/#/PointingToDeclaration/main/io.github.liplum.mindustry/-run-spec/get_data-dir.html
 $dokka.location:io.github.liplum.mindustry/RunSpec/get_forciblyClear/#/PointingToDeclaration/main/io.github.liplum.mindustry/-run-spec/get_forcibly-clear.html
@@ -655,6 +674,7 @@ $dokka.location:io.github.liplum.mindustry/ServerSpec/ServerSpec/#org.gradle.api
 $dokka.location:io.github.liplum.mindustry/ServerSpec/getKeepOtherVersion/#/PointingToDeclaration/main/io.github.liplum.mindustry/-server-spec/get-keep-other-version.html
 $dokka.location:io.github.liplum.mindustry/ServerSpec/getLocation/#/PointingToDeclaration/main/io.github.liplum.mindustry/-server-spec/get-location.html
 $dokka.location:io.github.liplum.mindustry/ServerSpec/getMindustry/#/PointingToDeclaration/main/io.github.liplum.mindustry/-server-spec/get-mindustry.html
+$dokka.location:io.github.liplum.mindustry/ServerSpec/getStartupArgs/#/PointingToDeclaration/main/io.github.liplum.mindustry/-server-spec/get-startup-args.html
 $dokka.location:io.github.liplum.mindustry/UrlMod///PointingToDeclaration/main/io.github.liplum.mindustry/-url-mod/index.html
 $dokka.location:io.github.liplum.mindustry/UrlMod/UrlMod/#java.net.URL/PointingToDeclaration/main/io.github.liplum.mindustry/-url-mod/-url-mod.html
 $dokka.location:io.github.liplum.mindustry/UrlMod/UrlMod/#kotlin.String/PointingToDeclaration/main/io.github.liplum.mindustry/-url-mod/-url-mod.html
