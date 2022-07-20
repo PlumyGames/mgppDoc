@@ -396,6 +396,7 @@ $dokka.location:io.github.liplum.mindustry/LocalMod/resolveFile/#org.gradle.api.
 $dokka.location:io.github.liplum.mindustry/LocalMod/setModFile/#java.io.File/PointingToDeclaration/main/io.github.liplum.mindustry/-local-mod/set-mod-file.html
 $dokka.location:io.github.liplum.mindustry/LocalProperties///PointingToDeclaration/main/io.github.liplum.mindustry/-local-properties/index.html
 $dokka.location:io.github.liplum.mindustry/LocalProperties/clearCache/#org.gradle.api.Project?/PointingToDeclaration/main/io.github.liplum.mindustry/-local-properties/clear-cache.html
+$dokka.location:io.github.liplum.mindustry/LocalProperties/getInitialText/#/PointingToDeclaration/main/io.github.liplum.mindustry/-local-properties/get-initial-text.html
 $dokka.location:io.github.liplum.mindustry/LocalProperties/getLocal/org.gradle.api.Project#/PointingToDeclaration/main/io.github.liplum.mindustry/-local-properties/get-local.html
 $dokka.location:io.github.liplum.mindustry/LocalProperties/getLocalProperties/org.gradle.api.Project#/PointingToDeclaration/main/io.github.liplum.mindustry/-local-properties/get-local-properties.html
 $dokka.location:io.github.liplum.mindustry/LocalPropertiesNotation///PointingToDeclaration/main/io.github.liplum.mindustry/-local-properties-notation/index.html
