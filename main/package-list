@@ -31,6 +31,7 @@ $dokka.location:io.github.liplum.dsl/FileSystemKt/findFileInOrder/java.io.File#k
 $dokka.location:io.github.liplum.dsl/FileSystemKt/findFileInOrder/java.io.File#kotlin.Array[kotlin.Function0[java.io.File]]/PointingToDeclaration/main/io.github.liplum.dsl/-file-system-kt/find-file-in-order.html
 $dokka.location:io.github.liplum.dsl/FileSystemKt/forEachFilesRecursive/java.io.File#kotlin.Function1[java.io.File,kotlin.Unit]/PointingToDeclaration/main/io.github.liplum.dsl/-file-system-kt/for-each-files-recursive.html
 $dokka.location:io.github.liplum.dsl/FileSystemKt/getFilesRecursive/java.io.File#/PointingToDeclaration/main/io.github.liplum.dsl/-file-system-kt/get-files-recursive.html
+$dokka.location:io.github.liplum.dsl/FileSystemKt/getOrCreateDir/java.io.File#/PointingToDeclaration/main/io.github.liplum.dsl/-file-system-kt/get-or-create-dir.html
 $dokka.location:io.github.liplum.dsl/FileSystemKt/mapFilesTo/kotlin.collections.Iterable[java.io.File]#java.io.File#kotlin.Boolean/PointingToDeclaration/main/io.github.liplum.dsl/-file-system-kt/map-files-to.html
 $dokka.location:io.github.liplum.dsl/FileSystemKt/mapTo/java.io.File#java.io.File#kotlin.Boolean/PointingToDeclaration/main/io.github.liplum.dsl/-file-system-kt/map-to.html
 $dokka.location:io.github.liplum.dsl/GsonExtensionKt///PointingToDeclaration/main/io.github.liplum.dsl/-gson-extension-kt/index.html
@@ -366,8 +367,6 @@ $dokka.location:io.github.liplum.mindustry/LatestCache/getName/#/PointingToDecla
 $dokka.location:io.github.liplum.mindustry/LatestCache/setLastUpdatedTimeStamp/#kotlin.Long/PointingToDeclaration/main/io.github.liplum.mindustry/-latest-cache/set-last-updated-time-stamp.html
 $dokka.location:io.github.liplum.mindustry/LatestCache/setLastValue/#kotlin.String/PointingToDeclaration/main/io.github.liplum.mindustry/-latest-cache/set-last-value.html
 $dokka.location:io.github.liplum.mindustry/LatestCache/setName/#kotlin.String/PointingToDeclaration/main/io.github.liplum.mindustry/-latest-cache/set-name.html
-$dokka.location:io.github.liplum.mindustry/LatestCacheKt///PointingToDeclaration/main/io.github.liplum.mindustry/-latest-cache-kt/index.html
-$dokka.location:io.github.liplum.mindustry/LatestCacheKt/getLatestVersion/org.gradle.api.Project#kotlin.String#kotlin.Long#kotlin.Function0[kotlin.String]/PointingToDeclaration/main/io.github.liplum.mindustry/-latest-cache-kt/get-latest-version.html
 $dokka.location:io.github.liplum.mindustry/LatestNotation///PointingToDeclaration/main/io.github.liplum.mindustry/-latest-notation/index.html
 $dokka.location:io.github.liplum.mindustry/LatestNotation/toString/#/PointingToDeclaration/main/io.github.liplum.mindustry/-latest-notation/to-string.html
 $dokka.location:io.github.liplum.mindustry/LatestReleaseNotation///PointingToDeclaration/main/io.github.liplum.mindustry/-latest-release-notation/index.html
@@ -528,6 +527,18 @@ $dokka.location:io.github.liplum.mindustry/MirrorJitpackDependency/isAvailable/#
 $dokka.location:io.github.liplum.mindustry/MirrorJitpackDependency/resolve/#kotlin.String/PointingToDeclaration/main/io.github.liplum.mindustry/-mirror-jitpack-dependency/resolve.html
 $dokka.location:io.github.liplum.mindustry/MirrorJitpackDependency/setFullName/#kotlin.String/PointingToDeclaration/main/io.github.liplum.mindustry/-mirror-jitpack-dependency/set-full-name.html
 $dokka.location:io.github.liplum.mindustry/MirrorJitpackDependency/setVersion/#kotlin.String/PointingToDeclaration/main/io.github.liplum.mindustry/-mirror-jitpack-dependency/set-version.html
+$dokka.location:io.github.liplum.mindustry/ModFolder///PointingToDeclaration/main/io.github.liplum.mindustry/-mod-folder/index.html
+$dokka.location:io.github.liplum.mindustry/ModFolder/ModFolder/#java.io.File/PointingToDeclaration/main/io.github.liplum.mindustry/-mod-folder/-mod-folder.html
+$dokka.location:io.github.liplum.mindustry/ModFolder/ModFolder/#kotlin.String/PointingToDeclaration/main/io.github.liplum.mindustry/-mod-folder/-mod-folder.html
+$dokka.location:io.github.liplum.mindustry/ModFolder/getFolder/#/PointingToDeclaration/main/io.github.liplum.mindustry/-mod-folder/get-folder.html
+$dokka.location:io.github.liplum.mindustry/ModFolder/mapLocalFile/#org.gradle.api.Project#java.io.File/PointingToDeclaration/main/io.github.liplum.mindustry/-mod-folder/map-local-file.html
+$dokka.location:io.github.liplum.mindustry/ModFolder/resolveFile/#org.gradle.api.Project#java.io.File/PointingToDeclaration/main/io.github.liplum.mindustry/-mod-folder/resolve-file.html
+$dokka.location:io.github.liplum.mindustry/ModFolder/setFolder/#java.io.File/PointingToDeclaration/main/io.github.liplum.mindustry/-mod-folder/set-folder.html
+$dokka.location:io.github.liplum.mindustry/ModInfo///PointingToDeclaration/main/io.github.liplum.mindustry/-mod-info/index.html
+$dokka.location:io.github.liplum.mindustry/ModInfo/ModInfo/#java.io.File#kotlin.Long#kotlin.String/PointingToDeclaration/main/io.github.liplum.mindustry/-mod-info/-mod-info.html
+$dokka.location:io.github.liplum.mindustry/ModInfo/getFile/#/PointingToDeclaration/main/io.github.liplum.mindustry/-mod-info/get-file.html
+$dokka.location:io.github.liplum.mindustry/ModInfo/getName/#/PointingToDeclaration/main/io.github.liplum.mindustry/-mod-info/get-name.html
+$dokka.location:io.github.liplum.mindustry/ModInfo/getSize/#/PointingToDeclaration/main/io.github.liplum.mindustry/-mod-info/get-size.html
 $dokka.location:io.github.liplum.mindustry/ModMeta.Companion///PointingToDeclaration/main/io.github.liplum.mindustry/-mod-meta/-companion/index.html
 $dokka.location:io.github.liplum.mindustry/ModMeta.Companion/by/#kotlin.Array[kotlin.Pair[kotlin.String,kotlin.Any]]/PointingToDeclaration/main/io.github.liplum.mindustry/-mod-meta/-companion/by.html
 $dokka.location:io.github.liplum.mindustry/ModMeta.Companion/by/#kotlin.Array[kotlin.collections.Map.Entry[kotlin.String,kotlin.Any]]/PointingToDeclaration/main/io.github.liplum.mindustry/-mod-meta/-companion/by.html
@@ -591,6 +602,8 @@ $dokka.location:io.github.liplum.mindustry/ModsKt/repo2Path/kotlin.String#/Point
 $dokka.location:io.github.liplum.mindustry/ModsSpec///PointingToDeclaration/main/io.github.liplum.mindustry/-mods-spec/index.html
 $dokka.location:io.github.liplum.mindustry/ModsSpec/ModsSpec/#org.gradle.api.Project/PointingToDeclaration/main/io.github.liplum.mindustry/-mods-spec/-mods-spec.html
 $dokka.location:io.github.liplum.mindustry/ModsSpec/closure/#kotlin.String/PointingToDeclaration/main/io.github.liplum.mindustry/-mods-spec/closure.html
+$dokka.location:io.github.liplum.mindustry/ModsSpec/folder/#java.io.File/PointingToDeclaration/main/io.github.liplum.mindustry/-mods-spec/folder.html
+$dokka.location:io.github.liplum.mindustry/ModsSpec/folder/#kotlin.String/PointingToDeclaration/main/io.github.liplum.mindustry/-mods-spec/folder.html
 $dokka.location:io.github.liplum.mindustry/ModsSpec/fromTask/#kotlin.String/PointingToDeclaration/main/io.github.liplum.mindustry/-mods-spec/from-task.html
 $dokka.location:io.github.liplum.mindustry/ModsSpec/getAdd/#/PointingToDeclaration/main/io.github.liplum.mindustry/-mods-spec/get-add.html
 $dokka.location:io.github.liplum.mindustry/ModsSpec/getExtraModsFromTask/#/PointingToDeclaration/main/io.github.liplum.mindustry/-mods-spec/get-extra-mods-from-task.html
@@ -604,6 +617,7 @@ $dokka.location:io.github.liplum.mindustry/ModsSpec/java/#kotlin.String/Pointing
 $dokka.location:io.github.liplum.mindustry/ModsSpec/js/#kotlin.String/PointingToDeclaration/main/io.github.liplum.mindustry/-mods-spec/js.html
 $dokka.location:io.github.liplum.mindustry/ModsSpec/json/#kotlin.String/PointingToDeclaration/main/io.github.liplum.mindustry/-mods-spec/json.html
 $dokka.location:io.github.liplum.mindustry/ModsSpec/kotlin/#kotlin.String/PointingToDeclaration/main/io.github.liplum.mindustry/-mods-spec/kotlin.html
+$dokka.location:io.github.liplum.mindustry/ModsSpec/local/#java.io.File/PointingToDeclaration/main/io.github.liplum.mindustry/-mods-spec/local.html
 $dokka.location:io.github.liplum.mindustry/ModsSpec/local/#kotlin.String/PointingToDeclaration/main/io.github.liplum.mindustry/-mods-spec/local.html
 $dokka.location:io.github.liplum.mindustry/ModsSpec/localProperties/#kotlin.String/PointingToDeclaration/main/io.github.liplum.mindustry/-mods-spec/local-properties.html
 $dokka.location:io.github.liplum.mindustry/ModsSpec/scala/#kotlin.String/PointingToDeclaration/main/io.github.liplum.mindustry/-mods-spec/scala.html
@@ -653,6 +667,9 @@ $dokka.location:io.github.liplum.mindustry/ResourceClassGeneratorRegistry/getAll
 $dokka.location:io.github.liplum.mindustry/ResourceClassGeneratorRegistry/set/#kotlin.String#io.github.liplum.mindustry.IResourceClassGenerator/PointingToDeclaration/main/io.github.liplum.mindustry/-resource-class-generator-registry/set.html
 $dokka.location:io.github.liplum.mindustry/RootNotation///PointingToDeclaration/main/io.github.liplum.mindustry/-root-notation/index.html
 $dokka.location:io.github.liplum.mindustry/RootNotation/toString/#/PointingToDeclaration/main/io.github.liplum.mindustry/-root-notation/to-string.html
+$dokka.location:io.github.liplum.mindustry/RunInfo///PointingToDeclaration/main/io.github.liplum.mindustry/-run-info/index.html
+$dokka.location:io.github.liplum.mindustry/RunInfo/RunInfo/#kotlin.collections.List[io.github.liplum.mindustry.ModInfo]/PointingToDeclaration/main/io.github.liplum.mindustry/-run-info/-run-info.html
+$dokka.location:io.github.liplum.mindustry/RunInfo/getLastMods/#/PointingToDeclaration/main/io.github.liplum.mindustry/-run-info/get-last-mods.html
 $dokka.location:io.github.liplum.mindustry/RunSpec///PointingToDeclaration/main/io.github.liplum.mindustry/-run-spec/index.html
 $dokka.location:io.github.liplum.mindustry/RunSpec/RunSpec/#org.gradle.api.Project/PointingToDeclaration/main/io.github.liplum.mindustry/-run-spec/-run-spec.html
 $dokka.location:io.github.liplum.mindustry/RunSpec/getClearOtherMods/#/PointingToDeclaration/main/io.github.liplum.mindustry/-run-spec/get-clear-other-mods.html
@@ -684,6 +701,8 @@ $dokka.location:io.github.liplum.mindustry/UrlMod/getUrl/#/PointingToDeclaration
 $dokka.location:io.github.liplum.mindustry/UrlMod/mapLocalFile/#org.gradle.api.Project#java.io.File/PointingToDeclaration/main/io.github.liplum.mindustry/-url-mod/map-local-file.html
 $dokka.location:io.github.liplum.mindustry/UrlMod/resolveFile/#org.gradle.api.Project#java.io.File/PointingToDeclaration/main/io.github.liplum.mindustry/-url-mod/resolve-file.html
 $dokka.location:io.github.liplum.mindustry/UrlMod/setUrl/#java.net.URL/PointingToDeclaration/main/io.github.liplum.mindustry/-url-mod/set-url.html
+$dokka.location:io.github.liplum.mindustry/WorkspaceCacheKt///PointingToDeclaration/main/io.github.liplum.mindustry/-workspace-cache-kt/index.html
+$dokka.location:io.github.liplum.mindustry/WorkspaceCacheKt/fetchLatestVersion/org.gradle.api.Project#kotlin.String#kotlin.Long#kotlin.Function0[kotlin.String]/PointingToDeclaration/main/io.github.liplum.mindustry/-workspace-cache-kt/fetch-latest-version.html
 io.github.liplum.dsl
 io.github.liplum.mindustry
 io.github.liplum.mindustry.task
