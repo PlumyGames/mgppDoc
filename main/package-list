@@ -470,12 +470,14 @@ $dokka.location:io.github.liplum.mindustry/MindustryExtension/getMeta/#/Pointing
 $dokka.location:io.github.liplum.mindustry/MindustryExtension/getOutOfDateTime/#/PointingToDeclaration/main/io.github.liplum.mindustry/-mindustry-extension/get-out-of-date-time.html
 $dokka.location:io.github.liplum.mindustry/MindustryExtension/getProjectType/#/PointingToDeclaration/main/io.github.liplum.mindustry/-mindustry-extension/get-project-type.html
 $dokka.location:io.github.liplum.mindustry/MindustryExtension/get_projectType/#/PointingToDeclaration/main/io.github.liplum.mindustry/-mindustry-extension/get_project-type.html
+$dokka.location:io.github.liplum.mindustry/MindustryExtension/isLib/#/PointingToDeclaration/main/io.github.liplum.mindustry/-mindustry-extension/is-lib.html
 $dokka.location:io.github.liplum.mindustry/MindustryExtension/mods/#kotlin.Function1[io.github.liplum.mindustry.ModsSpec,kotlin.Unit]/PointingToDeclaration/main/io.github.liplum.mindustry/-mindustry-extension/mods.html
 $dokka.location:io.github.liplum.mindustry/MindustryExtension/mods/#org.gradle.api.Action[io.github.liplum.mindustry.ModsSpec]/PointingToDeclaration/main/io.github.liplum.mindustry/-mindustry-extension/mods.html
 $dokka.location:io.github.liplum.mindustry/MindustryExtension/run/#kotlin.Function1[io.github.liplum.mindustry.RunSpec,kotlin.Unit]/PointingToDeclaration/main/io.github.liplum.mindustry/-mindustry-extension/run.html
 $dokka.location:io.github.liplum.mindustry/MindustryExtension/run/#org.gradle.api.Action[io.github.liplum.mindustry.RunSpec]/PointingToDeclaration/main/io.github.liplum.mindustry/-mindustry-extension/run.html
 $dokka.location:io.github.liplum.mindustry/MindustryExtension/server/#kotlin.Function1[io.github.liplum.mindustry.ServerSpec,kotlin.Unit]/PointingToDeclaration/main/io.github.liplum.mindustry/-mindustry-extension/server.html
 $dokka.location:io.github.liplum.mindustry/MindustryExtension/server/#org.gradle.api.Action[io.github.liplum.mindustry.ServerSpec]/PointingToDeclaration/main/io.github.liplum.mindustry/-mindustry-extension/server.html
+$dokka.location:io.github.liplum.mindustry/MindustryExtension/setLib/#kotlin.Boolean/PointingToDeclaration/main/io.github.liplum.mindustry/-mindustry-extension/set-lib.html
 $dokka.location:io.github.liplum.mindustry/MindustryExtension/setMeta/#io.github.liplum.mindustry.ModMeta/PointingToDeclaration/main/io.github.liplum.mindustry/-mindustry-extension/set-meta.html
 $dokka.location:io.github.liplum.mindustry/MindustryExtension/setOutOfDateTime/#kotlin.Int/PointingToDeclaration/main/io.github.liplum.mindustry/-mindustry-extension/set-out-of-date-time.html
 $dokka.location:io.github.liplum.mindustry/MindustryExtension/setProjectType/#io.github.liplum.mindustry.ProjectType/PointingToDeclaration/main/io.github.liplum.mindustry/-mindustry-extension/set-project-type.html
